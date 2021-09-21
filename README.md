@@ -93,7 +93,7 @@ Response:
 http://localhost:8080/authenticate
 Request:
 {
-  "username":"javainuse",
+  "username":"admin",
   "password":"password"
 }
 Reaponse:

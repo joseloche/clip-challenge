@@ -1,0 +1,36 @@
+[
+    {
+        "id": 1,
+        "name": "Alfredo",
+        "firstName": "Jimenez",
+        "lastName": "Herrera",
+        "payment": [
+            {
+                "id": 1,
+                "amount": 105.10,
+                "status": "NEW",
+                "ltransaction": "2021-09-19"
+            },
+            {
+                "id": 2,
+                "amount": 105.10,
+                "status": "NEW",
+                "ltransaction": "2021-09-19"
+            },
+            {
+                "id": 3,
+                "amount": 1.00,
+                "status": "NEW",
+                "ltransaction": "2021-09-20"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Angelica",
+        "firstName": "Delgadillo",
+        "lastName": "Campos",
+        "payment": [
+        ]
+    }
+]

@@ -1,0 +1,14 @@
+{
+	"properties": [
+		{
+			"name": "jwt.secret",
+			"type": "java.lang.String",
+			"description": "The secret key is combined with the header and the payload to create a unique hash."
+		},
+		{
+			"name": "jwt.get.token.uri",
+			"type": "java.lang.String",
+			"description": "Expose a POST API with mapping /authenticate."
+		}
+	]
+}
